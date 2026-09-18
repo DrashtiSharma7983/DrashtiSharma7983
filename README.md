@@ -2,7 +2,7 @@
 💻 Java Developer @ TCS | Core Banking & Microservices Enthusiast
 
 🔹 About Me
-👩‍💻 System Engineer at TCS (since Aug 2022)
+👩‍💻 System Engineer at Alight Solutions
 🌐 Experience in Core Banking Platforms using Java & Spring Boot
 🛠️ Skilled in developing & integrating REST APIs and backend systems
 
