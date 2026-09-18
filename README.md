@@ -1,5 +1,5 @@
 👋 Hi, I'm Drashti Sharma
-💻 Java Developer @ TCS | Core Banking & Microservices Enthusiast
+💻 Java Developer Alight Solutions | Core Banking & Microservices Enthusiast
 
 🔹 About Me
 👩‍💻 System Engineer at Alight Solutions
